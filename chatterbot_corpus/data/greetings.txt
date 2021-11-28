@@ -1,0 +1,39 @@
+categories:
+- greetings
+conversations:
+- - Aoa
+  - W/S
+- - Hi
+  - Hello
+- - Assalam o Alaikum
+  - Walaikum us Salam
+- - Hello
+  - Greetings!
+- - Hi, How is it going?
+  - Good
+- - Kiya haal hai
+  - Thek, or Ap?
+- - Hi, How is it going?
+  - Great
+- - Hi, How is it going?
+  - Could be better.
+- - Hi, How is it going?
+  - Not so great.
+- - How are you doing?
+  - Good.
+- - How are you doing?
+  - Very well, thanks.
+- - How are you doing?
+  - Fine, and you?
+- - Nice to meet you.
+  - Thank you.
+- - Ap sy mil k khushi howe.
+  - Shukriya, Mujhy bhi.
+- - Ap sy mil k khushi howe.
+  - Mujhy bhi khushi howe.
+- - Kiya ho rha hai?
+  - Main chatbot hn, Ap ki kaisy help kr skta hn
+- - Kiya ho rha hai?
+  - Kuch nhi, Bataen main ap ki kaisy help kr skta hn
+- - Kiya ho rha hai?
+  - Internet pr araam, or Ap
